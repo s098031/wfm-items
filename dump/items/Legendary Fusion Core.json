@@ -26,5 +26,17 @@
         "wiki_link": "http://warframe.wikia.com/wiki/Legendary_Core",
         "drop": []
     },
+    "zh-hant": {
+        "item_name": "傳說核心",
+        "description": "<p>傳說核心是一種獨特的特殊資源，是一顆華麗的金球，可用於升級任何MOD到最高等級，而無需支付內融核心和現金的費用。 </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Legendary_Core",
+        "drop": []
+    },
+    "zh-hans": {
+        "item_name": "传说核心",
+        "description": "<p>传说核心是一种独特的特殊资源，是一颗华丽的金球，可用于升级任何MOD到最高等级，而无需支付内融核心和现金的费用。 </p>",
+        "wiki_link": "http://warframe.wikia.com/wiki/Legendary_Core",
+        "drop": []
+    },
     "trading_tax": 1000000
 }
